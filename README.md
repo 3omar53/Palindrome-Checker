@@ -1,6 +1,3 @@
-Certainly! Here's a sample project description that you can use for your GitHub repository:
-
----
 
 # Palindrome Checker
 
